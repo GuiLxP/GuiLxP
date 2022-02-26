@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Auxiliar Administrativo
 - 🌱 Estudando JavaScript e Python
-- 📫 Contrate-me no email: guilhermematheus166@gmail.com
+- 📫 Contate-me no email: guilhermematheus166@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="">
