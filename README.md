@@ -1,9 +1,9 @@
-## Olá! Eu sou o Guilherme Pantoja.
+## Hello! I'm Guilherme Pantoja.
 
-- 🔭 Hoje trabalho como Suporte de TI
-- 🌱 Estudando C#, React e Django
-- 📫 Contate-me no email: guilhermematheus166@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Nowadays I'm working as IT Support
+- 🌱 Studying C#, React e Django
+- 📫 You can contact me at email: guilhermematheus166@gmail.com
+- 😄 Pronouns: He/Him
 
 <div align="">
   <a href="https://github.com/guilxp">
