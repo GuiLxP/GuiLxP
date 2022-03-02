@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Pantoja.
 
 - 🔭 Hoje trabalho como Suporte de TI
-- 🌱 Estudando React e Django
+- 🌱 Estudando C#, React e Django
 - 📫 Contate-me no email: guilhermematheus166@gmail.com
 - 😄 Pronouns: ele/dele
 
