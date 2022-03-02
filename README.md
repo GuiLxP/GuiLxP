@@ -12,8 +12,9 @@
 </div>
   
   
-  <h3>Linguagens e Ferramentas<h3>
+
 <div style="display: inline_block"><br>
+  <h3>Linguagens e Ferramentas<h3>
   <img align="center" alt="Gui-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gui-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
