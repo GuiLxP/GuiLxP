@@ -1,9 +1,9 @@
 ## Hello! I'm Guilherme Pantoja.
 
-- 🔭 Nowadays I'm working as IT Support
+- :computer: Nowadays I'm working as IT Support
 - 🌱 Studying C#, React e Django
 - 📫 You can contact me at email: guilhermematheus166@gmail.com
-- 😄 Pronouns: He/Him
+
 
 <div align="">
   <a href="https://github.com/guilxp">
@@ -28,5 +28,5 @@
 <div>
     <a href="https://www.linkedin.com/in/guilherme-pantoja-7694a6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/guilxp/guilxp/blob/output/github-contribution-grid-snake.svg)
+
  
