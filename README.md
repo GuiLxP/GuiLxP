@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Guilherme Pantoja.
 
-- 🔭 Hoje trabalho como Auxiliar Administrativo
-- 🌱 Estudando JavaScript e Python
+- 🔭 Hoje trabalho como Suporte de TI
+- 🌱 Estudando React e Django
 - 📫 Contate-me no email: guilhermematheus166@gmail.com
 - 😄 Pronouns: ele/dele
 
@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/guilherme-pantoja-7694a6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://github.com/guilxp/guilxp/blob/output/github-contribution-grid-snake.svg)
+  !(https://github.com/guilxp/guilxp/blob/output/github-contribution-grid-snake.svg)
  
