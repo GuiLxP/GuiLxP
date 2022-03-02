@@ -1,4 +1,5 @@
-## Hello! I'm Guilherme Pantoja.
+## Hello! 
+## I'm Guilherme Pantoja.
 
 - :computer: Nowadays I'm working as IT Support
 - 🌱 Studying C#, React e Django
