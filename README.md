@@ -2,7 +2,7 @@
 
 - :computer: Nowadays I'm working as IT Support
 - 🌱 Studying C#, React e Django
-- 📫 You can contact me at email: guilhermematheus166@gmail.com
+- 📫 My E-mail: guilhermematheus166@gmail.com
 
 
 <div align="">
