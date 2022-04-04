@@ -1,7 +1,7 @@
 ## Hello! I'm Guilherme Pantoja.
 
 - :computer: Nowadays I'm working as IT Support
-- 🌱 Studying C#, React
+- 🌱 Studying C# and Java
 - 📫 My E-mail: guilhermematheus166@gmail.com
 
 
