@@ -1,6 +1,6 @@
 ## Hello! I'm Guilherme Pantoja.
 
-- :computer: Nowadays I'm working as IT Support
+- :computer: Nowadays, I'm working as IT Support
 - 🌱 Studying C# and Java
 - 📫 My E-mail: guilhermematheus166@gmail.com
 
