@@ -3,7 +3,7 @@
 - :computer: Nowadays, I'm working as IT Support.
 - 🌱 Studying C#
 - 📫 My E-mail: guilhermematheus166@gmail.com
-- 🌿:shipit: Intend to be a Full Stack Dev.
+- 🌿:shipit: Intend to be a Full-stack Dev.
 
 <div align="center">
   <a href="https://github.com/guilxp">
