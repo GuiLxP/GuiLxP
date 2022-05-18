@@ -30,6 +30,7 @@
 <div>
     <a href="https://www.linkedin.com/in/guilherme-pantoja-7694a6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://codepen.io/guilxp" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQwMjRkMzctMzdjNS00Y2NjLThlOTEtNmFmZTU4NzUwZDg2IiwidCI6Ijc2ZGZjMDdlLTRkZGEtNDYyMC04NDllLTBmOWJkMzg5MGE0YyJ9&pageName=ReportSection" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/guilxp/guilxp/blob/output/github-contribution-grid-snake.svg)
