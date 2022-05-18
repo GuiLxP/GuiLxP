@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/guilxp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=7&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=7&theme=vue">
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guilxp&theme=dark">
 </div>
 
@@ -31,5 +31,5 @@
 <div>
     <a href="https://www.linkedin.com/in/guilherme-pantoja-7694a6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![Snake animation](https://github.com/ThatianeDeboleto/ThatianeDeboleto/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/guilxp/guilxp/blob/output/github-contribution-grid-snake.svg)
  
