@@ -1,9 +1,10 @@
 ## Hello! I'm Guilherme Pantoja.
 
-- :computer: Nowadays, I'm working as IT Support
+- :computer: Nowadays, I'm working as IT Support.
 - 🌱 Studying C#
 - 📫 My E-mail: guilhermematheus166@gmail.com
-
+- 🌿![image](https://user-images.githubusercontent.com/87860437/169116233-89915229-866f-4be8-bb76-3120038e2fb1.png)
+ Intend to be a Full Stack Dev.
 
 <div align="center">
   <a href="https://github.com/guilxp">
