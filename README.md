@@ -1,7 +1,7 @@
 ## Hello! I'm Guilherme Pantoja.
 
 - :computer: Nowadays, I'm working as IT Assistant JR.
-- 🌱 Studying C#
+- 🌱 Studying C# and JS
 - 📫 My E-mail: guilhermematheus166@gmail.com
 - 🌿:shipit: Intend to be a Full-stack Dev.
 
