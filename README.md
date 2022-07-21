@@ -25,6 +25,10 @@
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+<div>
+  <img align-"right" alt="gif" height="150" src="https://media0.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
+</div>
+
   ##
   
 <div>
