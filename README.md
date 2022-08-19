@@ -15,7 +15,6 @@
       <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GuiLxP&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </div>
 
-##
   <div style="display: inline"><br>
     <h3>Languages and Frameworks<h3>
     <img align="center" alt="Gui-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,3 +34,6 @@
       <a href="mailto:guilhermematheus166@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   </div>
 </div>
+<br/>
+
+##
