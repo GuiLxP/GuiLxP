@@ -3,7 +3,7 @@
   - :computer: Nowadays I'm working as IT Assistant JR.
   - 🌱 Studying Spring and React Native.
   <br/>- 📫 My E-mail: guilhermematheus166@gmail.com
-  - :face_in_clouds: Intend to be a Fullstack Dev.
+  - :face_in_clouds: Student of Front/Back End.
 </div>
 <br />
 
