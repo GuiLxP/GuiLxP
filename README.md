@@ -1,9 +1,9 @@
 <div align="center" flex-direction="row">
-  <h1> Hello! I'm Guilherme Pantoja. </h1>
+  <h1> Hello there! I'm Guilherme Pantoja :wave:</h1>
   - :computer: Nowadays I'm working as IT Assistant JR.
   - 🌱 Studying Spring and React Native.
   <br/>- 📫 My E-mail: guilhermematheus166@gmail.com
-  - 🌿 Intend to be a Fullstack Dev.
+  - :face_in_clouds: Intend to be a Fullstack Dev.
 </div>
 <br />
 
@@ -14,11 +14,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=6&theme=chartreuse-dark">
       <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GuiLxP&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </div>
-  
-  
-  ##
-    
-    
+
+##
   <div style="display: inline"><br>
     <h3>Languages and Frameworks<h3>
     <img align="center" alt="Gui-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
