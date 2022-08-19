@@ -7,8 +7,8 @@
 
 <div align="center">
   <a href="https://github.com/guilxp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=codeSTACKr&include_all_commits=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=7&theme=codeSTACKr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&include_all_commits=true&theme=codeSTACKr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=6&theme=codeSTACKr">
 </div>
 
 <div style="display: inline"><br>
