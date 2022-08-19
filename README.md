@@ -3,7 +3,7 @@
 - :computer: Nowadays, I'm working as IT Assistant JR.
 - 🌱 Studying Spring and React Native.
 - 📫 My E-mail: guilhermematheus166@gmail.com
-- 🌿:shipit: Intend to be a Full-stack Dev.
+- 🌿 Intend to be a Fullstack Dev.
 
 <div align="center">
   <a href="https://github.com/guilxp">
