@@ -1,6 +1,6 @@
 ## Hello! I'm Guilherme Pantoja.
 
-- :computer: Nowadays, I'm working as IT Assistant JR.
+- :computer: Nowadays I'm working as IT Assistant JR.
 - 🌱 Studying Spring and React Native.
 - 📫 My E-mail: guilhermematheus166@gmail.com
 - 🌿 Intend to be a Fullstack Dev.
