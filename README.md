@@ -10,9 +10,9 @@
 <div align="center">
   <div align="center">
     <a href="https://github.com/guilxp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&include_all_commits=true&theme=chartreuse-dark">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=6&theme=chartreuse-dark">
-      <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GuiLxP&theme=chartreuse-dark&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&include_all_commits=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=6&theme=tokyonight">
+      <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GuiLxP&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </div>
 
   <div style="display: inline"><br>
