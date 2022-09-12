@@ -20,6 +20,7 @@
     <img align="center" alt="Gui-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gui-TypeScript" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Gui-React" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+      <img align="center" alt"Gui-NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Gui-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
     <img align="center" alt="Gui-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Gui-Csharp" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
