@@ -14,18 +14,15 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=6&theme=tokyonight">
       <img height='180em' src='https://github-readme-streak-stats.herokuapp.com?user=GuiLxP&theme=tokyonight&hide_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
   </div>
-
   <div style="display: inline"><br>
     <h3>Languages and Frameworks<h3>
-    <img align="center" alt="Gui-Js" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Gui-TypeScript" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Gui-React" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
-      <img align="center" alt"Gui-NodeJS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Gui-Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="35" height="35"/>
-    <img align="center" alt="Gui-CSS" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Gui-Csharp" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Gui-dot-net" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
-    <img align="center" alt="Gui-PHP" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+      <img align="center" alt="Laravel Icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg"/>
+      <img align="center" alt="VueJS Icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"/>
+    <img align="center" alt="JavaScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="TypeScript Icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="React Icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+    <img align="center" alt="PHP Icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+    <img align="center" alt="Dot Net icon" height="45" width="45" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
   </div>
 
   <div>
