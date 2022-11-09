@@ -31,12 +31,11 @@
       <a href="https://app.powerbi.com/view?r=eyJrIjoiMDQwMjRkMzctMzdjNS00Y2NjLThlOTEtNmFmZTU4NzUwZDg2IiwidCI6Ijc2ZGZjMDdlLTRkZGEtNDYyMC04NDllLTBmOWJkMzg5MGE0YyJ9&pageName=ReportSection" target="_blank"><img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" target="_blank"></a>
       <a href="mailto:guilhermematheus166@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   </div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=110"/>
+      
 </div>
 <br/>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
 ##
