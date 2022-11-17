@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAB&size=32&center=true&vCenter=true&width=1020&lines=Hello+there!+I'm+Guilherme+Pantoja...;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome,+have+fun!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAB&size=35&center=true&vCenter=true&width=1020&lines=Hello+there!+I'm+Guilherme+Pantoja...;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome,+have+fun!+:%29)](https://git.io/typing-svg)
   
    :computer: Nowadays I'm working as IT Assistant JR.</br>
    🌱 Studying Laravel and VueJS.</br>
