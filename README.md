@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAB&size=35&center=true&vCenter=true&width=1020&lines=Hello+there!+I'm+Guilherme+Pantoja...;I'm+21+years+old;I'm+from+Brazil;I'm+studying+Software+Engineering;Be+Welcome,+have+fun!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=846&lines=Hello+there!+I'm+Guilherme+Pantoja...;I'm+21+years+old.;I'm+from+Brazil;I'm+studying+Software+Engineering+;I+really+like+front-end+development+too.;Be+Welcome%2C+have+fun!!)](https://git.io/typing-svg)
   
    :computer: Nowadays I'm working as IT Assistant JR.</br>
    🌱 Studying React and VueJS.</br>
@@ -14,8 +14,8 @@
 <br />
   <div align="center">
     <a href="https://github.com/guilxp">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&include_all_commits=true&theme=blue-green">
-    <img width="332em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&langs_count=8&theme=blue-green">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuiLxP&bg_color=30,46B5D1,0F4C75&title_color=E3F6F5&text_color=E3F6F5">
+    <img width="382em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&layout=compact&bg_color=30,46B5D1,0F4C75&title_color=E3F6F5&text_color=E3F6F5">
       
   </div>
   
