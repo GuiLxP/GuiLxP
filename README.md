@@ -19,7 +19,7 @@
       
   </div>
   
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GuiLxP&bg_color=0d1117&color=00FFAB&line=14C38E&point=B8F1B0&area=true&hide_border=true)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GuiLxP&theme=react)
 
 ##
 
