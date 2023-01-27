@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=846&lines=Hello+there!+I'm+Guilherme+Pantoja...;I'm+21+years+old.;I'm+from+Brazil;I'm+studying+Software+Engineering+;I+really+like+front-end+development+too.;Be+Welcome%2C+have+fun!!" />
   
-   🌱 Studying NextJS and VueJS.</br>
+   🌱 Studying NextJS and Tailwind CSS.</br>
    :face_in_clouds: Student of Front/Back End Development.</br>
   :computer: Nowadays I'm working as IT Assistant JR.</br>
    📫 My E-mail: guilherme.pantoja1201@gmail.com</br>
