@@ -39,7 +39,7 @@
       
   </div>
   
-<img width="846px" src="https://github-readme-activity-graph.cyclic.app/graph?username=GuiLxP&theme=react" />
+<img width="746px" src="https://github-readme-activity-graph.cyclic.app/graph?username=GuiLxP&theme=react" />
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=332em"/>
     
