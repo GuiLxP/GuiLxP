@@ -20,7 +20,7 @@
 
 <div align="center" >
 
-## Languages and Frameworks
+# Languages and Frameworks
 
   <img align="center" alt="JavaScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
@@ -33,12 +33,9 @@
   <img align="center" alt="Dot Net icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg">
 </div>
 
-##
-
 <div align="center">
 <br />
   <div align="center">
-    <a href="https://github.com/guilxp">
 
 [![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
 
@@ -52,11 +49,8 @@
       <a href="mailto:guilherme.pantoja1201@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
       
   </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=332em"/>
     
 ##
-
 </div>
-<br/>
 </p>
