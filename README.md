@@ -1,17 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&duration=2000&pause=2000&color=F7941D&center=true&vCenter=true&width=796&lines=Hello+There!;My+name+is+Guilherme+Pantoja;I'm+21+and+living+in+Brazil;Studying+Software+Engineering+and;Software+Development.;I+hope+you+have+a+good+time+at+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&duration=2000&pause=2000&color=F7941D&center=true&vCenter=true&width=796&lines=Hello+There!;My+name+is+Guilherme+Pantoja;I"m+21+and+living+in+Brazil;Studying+Software+Engineering+and;Software+Development.;I+hope+you+have+a+good+time+at+my+Github!)](https://git.io/typing-svg)
 
 ### 🌱 Studying NextJS and NuxtJS.
 
 ### :face_in_clouds: Student of FullStack Development.
 
-### :computer: Nowadays I'm working as IT Assistant JR.
+### :computer: Nowadays I"m working as IT Assistant JR.
 
 ### 📫 My E-mail: guilherme.pantoja1201@gmail.com
 
 <br/>
-<a href="https://ko-fi.com/guilhermepantoja" target="_blank"><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' alt='Buy Me a Coffee at ko-fi.com' />
+<a href="https://ko-fi.com/guilhermepantoja" target="_blank"><img height="35" style="border:0px;height:46px;" src="https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0" alt="Buy Me a Coffee at ko-fi.com" />
 </a>
 
 </div>
@@ -36,9 +36,9 @@
 <br />
   <div align="center">
 
-[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=vision-friendly-dark)](https://github.com/guilxp/github-readme-stats)
+[![Pantojas"s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=vision-friendly-dark)](https://github.com/guilxp/github-readme-stats)
 
-![Guilherme Pantoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=vision-friendly-dark)
+![Guilherme Pantoja"s GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=vision-friendly-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/guilxp/github-readme-stats)
 
   </div>
