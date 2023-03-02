@@ -24,7 +24,7 @@
 
   <img align="center" alt="JavaScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
-  <img align="center" alt="NextJS icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="NextJS icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="NuxtJS icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nuxtjs/nuxtjs-original.svg">
   <img align="center" alt="React Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
   <img align="center" alt="VueJS Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg"/>
@@ -37,10 +37,10 @@
 <br />
   <div align="center">
 
-[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
+[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=vision-friendly-dark)](https://github.com/guilxp/github-readme-stats)
 
-![Guilherme Pantoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
+![Guilherme Pantoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=vision-friendly-dark)](https://github.com/guilxp/github-readme-stats)
 
   </div>
   <div align="center">
