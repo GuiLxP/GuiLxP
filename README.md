@@ -40,10 +40,10 @@
   <div align="center">
     <a href="https://github.com/guilxp">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
+[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
 
 ![Guilherme Pantoja's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=transparent)
-[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=transparent)](https://github.com/guilxp/github-readme-stats)
 
   </div>
   <div align="center">
