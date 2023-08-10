@@ -2,9 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Sans&weight=600&size=34&duration=2000&pause=2000&color=F7941D&center=true&vCenter=true&width=796&lines=Hello+There!;My+name+is+Guilherme+Pantoja;I"m+21+and+living+in+Brazil;Studying+Software+Engineering+and;Software+Development.;I+hope+you+have+a+good+time+at+my+Github!)](https://git.io/typing-svg)
 
-### 🌱 Studying NextJS and NuxtJS.
-
-### :face_in_clouds: Student of FullStack Development.
+### :face_in_clouds: Student of Cloud Development.
 
 ### :computer: Nowadays I"m working as Oracle Cloud Integration Techinical Consultant.
 
