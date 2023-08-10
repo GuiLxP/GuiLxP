@@ -6,7 +6,7 @@
 
 ### :face_in_clouds: Student of FullStack Development.
 
-### :computer: Nowadays I"m working as IT Assistant JR.
+### :computer: Nowadays I"m working as Oracle Cloud Integration Techinical Consultant.
 
 ### 📫 My E-mail: guilherme.pantoja1201@gmail.com
 
