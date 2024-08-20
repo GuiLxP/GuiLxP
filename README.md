@@ -31,10 +31,10 @@
 <div align="center">
 <br />
   <div align="center">
+    
+![Guilherme Pantoja's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=guilxp&theme=codeSTACKr)
 
 [![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=codeSTACKr)](https://github.com/guilxp/github-readme-stats)
-
-![Guilherme Pantoja's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=guilxp&theme=codeSTACKr)
 
   </div>
   <div align="center">
