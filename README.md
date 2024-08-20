@@ -32,10 +32,9 @@
 <br />
   <div align="center">
 
-[![Pantojas"s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=codeSTACKr)](https://github.com/guilxp/github-readme-stats)
+[![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=codeSTACKr)](https://github.com/guilxp/github-readme-stats)
 
-![Guilherme Pantoja"s GitHub stats](https://github-readme-stats.vercel.app/api?username=guilxp&show_icons=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilxp&langs_count=8&layout=compact&theme=codeSTACKr)](https://github.com/guilxp/github-readme-stats)
+![Guilherme Pantoja's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=guilxp&theme=codeSTACKr)
 
   </div>
   <div align="center">
