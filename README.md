@@ -8,15 +8,11 @@
 
 ### 📫 My E-mail: guilherme.pantoja1201@gmail.com
 
-<br/>
 </a>
-
 </div>
 
-<br/>
-
-<div align="center" >
-
+<div align="center">
+  
 # Languages and Frameworks
 
   <img align="center" alt="JavaScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
