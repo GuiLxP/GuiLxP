@@ -9,13 +9,13 @@ Cloud Developer | Passionate about building engaging web applications and solvin
 
 ## 🌐 Languages and Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img alt="Oracle" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/oracle/oracle-original.svg" />
     <img alt="JavaScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="TypeScript Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
     <img alt="NextJS icon" height="45" width="45" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
     <img alt="ReactJS Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
     <img alt="Java icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
-    <img alt="Oracle" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/oracle/oracle-original.svg" />
 </div>
 
 ## 🚀 Projects
