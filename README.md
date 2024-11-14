@@ -15,6 +15,7 @@ Cloud Developer | Passionate about building engaging web applications and solvin
     <img alt="ReactJS Icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg">
     <img alt="Java icon" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
     <img alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
+    <img alt="Oracle" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/oracle/oracle-original.svg" />
 </div>
 
 ## 🚀 Projects
