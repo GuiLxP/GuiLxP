@@ -22,7 +22,8 @@ Cloud Developer | Passionate about building engaging web applications and solvin
 - [CSV/JSON Parser](link "Open CSV/JSON Parser") - This project was developed by me to streamline data conversions, specifically between CSV and JSON formats.
 
 ## 📊 Stats
-![Guilherme Pantoja's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=guilxp&theme=codeSTACKr)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guilxp&theme=codestackr)](https://git.io/streak-stats) <br/>
 [![Pantojas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@guilxp&layout=compact&theme=codeSTACKr)](https://github.com/guilxp/github-readme-stats)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" style="max-width: 100%;"/>
